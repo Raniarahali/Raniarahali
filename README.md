@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>Hi 👋, I'm Rania, a mechatronics engineer.</h1>
 <p>A passionate AI and ML enthusiast who's eager to learn more about new technologies.  </p>
 <h2>🚀 Languages and Tools I Use</h2>
